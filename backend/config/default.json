@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "hmede",
+    "db": "mongodb://localhost/chat"
+}

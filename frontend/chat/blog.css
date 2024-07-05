@@ -1,0 +1,11 @@
+.main-container {
+    display: grid;
+    grid-template-rows: 10vh 75vh 10vh;
+    grid-template-columns: 25% 75%;
+    border: 3px solid;
+}
+
+.box {
+    background-color: red;
+    margin: 5px;
+}

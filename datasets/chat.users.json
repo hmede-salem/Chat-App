@@ -1,0 +1,15 @@
+[{
+  "_id": {
+    "$oid": "66880a804783e374121d9508"
+  },
+  "firstName": "Hmede",
+  "lastName": "Salem",
+  "email": "hmede@gmail.com",
+  "password": "$2b$10$an6Jd7P3bHKw41a/c1vp7.jVyram9Y6abi6zFdwPL62m7c3x5akfG",
+  "contacts": [
+    {
+      "$oid": "66880fdb4783e374121d950d"
+    }
+  ],
+  "__v": 1
+}]
