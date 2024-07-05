@@ -23,7 +23,7 @@ Back-end: Nodejs express library and socket-io.
 
 2 - Client side:
 -> open frontend/login/login.html .
--> press on Go ive in the bottom right of the VScode.
+-> press on Go live in the bottom right of the VScode.
 
 
 3 - DB (mongoDB):
